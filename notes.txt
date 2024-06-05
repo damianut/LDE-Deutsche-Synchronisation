@@ -1,0 +1,10 @@
+- B_AssignAmbientInfos to record, and re-record.
+
+- It is better to add as SVMs those records:
+DIA_AMBIENT_NEWS_07_03.WAV
+DIA_AMBIENT_NEWS_07_05.WAV
+
+
+IMPORTANT: Some dialogues has names, which are misleading like `DIA_Boltan_Add_05_00`
+
+IMPORTANT: The rest of NPCs haven't dialogues, but of course have SVMs. It may happen, that two NPCs with the same voice will stay near each other. It is better to avoid it, of course it needs more work to do.
